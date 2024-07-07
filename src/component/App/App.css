@@ -1,0 +1,13 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to left, #0f1228, #9209e1, #0f1228);
+  color: #e7e9f0; 
+  font-family: 'Lato', sans-serif; 
+  overflow-x: hidden; 
+}
